@@ -38,7 +38,7 @@ Em **Configurações do Windows › Aplicativos**, desinstale o **JVK Performanc
 - [Termos de Uso](TERMOS-DE-USO.md)
 - [Política de Privacidade](PRIVACIDADE.md)
 
-Fornecido por Lucas Henrique Franco, CPF 516.668.998-44, Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Suporte: jvkperfomance@gmail.com
+Fornecido por Lucas Henrique Franco, CPF 516.668.998-44, Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Suporte: jvkperformance@gmail.com
 
 ## Conferir o arquivo (opcional)
 

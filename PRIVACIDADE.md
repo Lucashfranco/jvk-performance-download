@@ -2,7 +2,7 @@
 
 Última atualização: 30/10/2026
 
-Controlador: **Lucas Henrique Franco**, CPF 516.668.998-44, Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Contato do encarregado: jvkperfomance@gmail.com.
+Controlador: **Lucas Henrique Franco**, CPF 516.668.998-44, Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Contato do encarregado: jvkperformance@gmail.com.
 
 ## O que coletamos e por quê
 
@@ -26,7 +26,7 @@ No Supabase, com servidores nos Estados Unidos (transferência internacional, ar
 Enquanto a licença existir e por até 5 anos depois, para suporte e obrigações legais e fiscais.
 
 ## Seus direitos (LGPD, art. 18)
-Você pode pedir acesso, correção, exclusão ou informações sobre o uso dos seus dados pelo e-mail jvkperfomance@gmail.com. Excluir os dados cancela a licença vinculada a eles.
+Você pode pedir acesso, correção, exclusão ou informações sobre o uso dos seus dados pelo e-mail jvkperformance@gmail.com. Excluir os dados cancela a licença vinculada a eles.
 
 ## Alterações
 Mudanças nesta política são publicadas em https://github.com/Lucashfranco/jvk-performance-download/blob/main/PRIVACIDADE.md.

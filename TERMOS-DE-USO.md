@@ -3,7 +3,7 @@
 Última atualização: 30/10/2026
 
 ## 1. Quem somos
-O JVK Performance é um software para Windows 10 e 11 que aplica ajustes de desempenho e faz limpeza de arquivos temporários. Ele é fornecido por **Lucas Henrique Franco**, CPF 516.668.998-44, com endereço na Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Contato: jvkperfomance@gmail.com.
+O JVK Performance é um software para Windows 10 e 11 que aplica ajustes de desempenho e faz limpeza de arquivos temporários. Ele é fornecido por **Lucas Henrique Franco**, CPF 516.668.998-44, com endereço na Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Contato: jvkperformance@gmail.com.
 
 ## 2. Licença de uso
 - A licença é **pessoal, de pagamento único e válida para 1 computador por vez**. Há dois planos:
@@ -28,7 +28,7 @@ O app foi feito para ser reversível e cauteloso, mas mexe em configurações do
 
 ## 6. Pagamento, reembolso e arrependimento
 - O pagamento é processado pelo Mercado Pago.
-- Você tem **7 dias a partir da compra para desistir** (art. 49 do Código de Defesa do Consumidor). Para pedir o reembolso, escreva para jvkperfomance@gmail.com. Ao reembolsar, a licença é cancelada.
+- Você tem **7 dias a partir da compra para desistir** (art. 49 do Código de Defesa do Consumidor). Para pedir o reembolso, escreva para jvkperformance@gmail.com. Ao reembolsar, a licença é cancelada.
 
 ## 7. Atualizações
 O app verifica atualizações automaticamente e instala só quando você pede. Uma atualização pode adicionar ou remover ajustes.
