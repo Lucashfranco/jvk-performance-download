@@ -33,6 +33,13 @@ Você tem 7 dias a partir da compra para desistir e receber o reembolso.
 
 Em **Configurações do Windows › Aplicativos**, desinstale o **JVK Performance**. O desinstalador pergunta se você quer desfazer todas as alterações antes de remover o app.
 
+## Termos e privacidade
+
+- [Termos de Uso](TERMOS-DE-USO.md)
+- [Política de Privacidade](PRIVACIDADE.md)
+
+Fornecido por Lucas Henrique Franco, CPF 516.668.998-44, Av. 25 de Janeiro, 770, Centro, Lençóis Paulista/SP. Suporte: jvkperfomance@gmail.com
+
 ## Conferir o arquivo (opcional)
 
 Cada versão traz o SHA-256 do instalador nas notas. Para conferir, no PowerShell:
